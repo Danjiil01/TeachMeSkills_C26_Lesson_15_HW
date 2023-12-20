@@ -1,6 +1,7 @@
 # TeachMeSkills_C26_Lesson_15_HW
 
-Problem 1
+Task 1
+
 Create a collection of integers and fill it with values ​​entered from the console.
 When populating a collection with numbers from the console, you should make type casts.
 The code to convert a string to a number can be used as follows:
@@ -15,12 +16,14 @@ When converting a string to a number, you should consider the possibility of exc
 
 Display even numbers from the collection on the screen.
 
-Problem 2
+Task 2
+
 Create a collection of shapes.
 Fill the collection with various shapes.
 Loop through the collection and call a method to calculate and display the perimeter of each shape.
 
-Problem 3
+Task 3
+
 Create a collection of integers.
 Fill the collection with random numbers.
 Let the collection size be set from the console.
